@@ -1,6 +1,11 @@
 # Deep-RecSys-Explainability
 
-This repositiory contains the development and implementation of methods defined in "GD-FETS: Gradient Descent Feature Explainability and Tensor Search for Deep Recommendation Systems".
+This repositiory contains the development and implementation of methods defined in "DFEST: Feature Stability Descent & Tensor Search Explainability for Deep Recommendation Systems".
+
+Synth_DFEST_vs_LIME.ipynb contains all methods demonstrated in the submitted manuscript for evaluating the explainability performance of DFEST & LIME against a synthetic ground truth model.
+
+
+Secondary Files:
 
 DeepFM-GDFTS.ipynb contains all methods to calculate instability of multi-way feature-interactions for any given recommendation predicted by a Deep Recommendation System, demonstrated here with a Deep Factorization Machine (DeepFM).
 
