@@ -1,6 +1,6 @@
-# Deep-RecSys-Explainability
+# DFEST Feature Instability Search for Multi-Way Explainability of DNN
 
-This repositiory contains the development and implementation of methods defined in "DFEST: Feature Stability Descent & Tensor Search Explainability for Deep Recommendation Systems".
+This repositiory contains the development and implementation of methods defined in "Feature Instability Search for Multi-Way Explainability".
 
 Synth_DFEST_vs_LIME.ipynb contains all methods demonstrated in the submitted manuscript for evaluating the explainability performance of DFEST & LIME against a synthetic ground truth model.
 
